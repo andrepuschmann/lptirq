@@ -10,4 +10,3 @@ $ mkdir build
 $ cd build
 $ cmake ..
 $ sudo ./lptirq
-'''
